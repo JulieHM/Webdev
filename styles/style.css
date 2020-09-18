@@ -1,0 +1,108 @@
+html{
+  scroll-behavior: smooth;
+  background-color:whitesmoke;
+}
+
+/* flex box */
+.wrapper {
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /* align-content: space-between; */
+  }
+
+  .wrapper > div {
+    flex: 2 0 auto
+  }
+
+
+  div{
+    /* order: 2; To kolonner med bilder */
+    flex-grow: 1;
+    /* padding: 1vw; */
+  }
+
+  .wrapper_row{
+      display: flex;
+      flex-direction: row;
+  }
+
+  .wrapper_row > div{ 
+    padding: 1vw;
+  }
+
+/* fonts */
+h1, h2, h3, h4, h5, p{
+  font-family: "Inter var experimental", sans-serif;
+  font-weight: 100;
+  color: #5d5d5d
+}
+p{
+  line-height: 1.3;
+}
+
+h1{
+  font-weight: 500;
+  color: #3a3a3a;
+  font-family: 'din-condensed', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+h4{
+  color: #5d5d5d;
+}
+
+p{
+  padding: 3px;
+}
+
+
+#canvas{
+  background-color: lightblue;
+  max-width: 100%;
+  /* transition-duration: 1s; */
+}
+
+
+
+
+
+/* brukt for å sentrere dokumentasjon-knappen*/
+.buttondiv{
+  text-align: center;
+}
+
+#btnDokumentasjon{
+  padding: 10px;
+  background-color: white;
+  border: solid;
+  border-width: 0.1vw;
+  border-color: #3a3a3a;
+  font-family: "Inter var experimental", sans-serif;
+  font-size: 16px;
+  color: #5d5d5d;
+  background-color:transparent;
+}
+
+#btnDokumentasjon:focus {
+  outline:0;
+}
+
+#btnDokumentasjon:hover{
+  box-shadow: 10px 10px 20px #aaaaaa;
+  transition: 0.5s;
+  padding: 12px;
+}
+
+
+/*text on svg*/
+.text{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+  
+
+  
