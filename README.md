@@ -1,7 +1,7 @@
 # Webdev
-Første øving i faget webutvikling
+Første øving i faget webutvikling, oppgavebeskrivelse finnes nedenfor
 
-Skjermbilde:
+Bildet er et skjermbilde av svg og canvas laget i oppgaven:
 
 ![GitHub Logo](Screenshot_ui.png)
 
