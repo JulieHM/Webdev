@@ -2,7 +2,7 @@
 Første øving i faget webutvikling
 
 Skjermbilde:
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[Screenshot_ui.png]: Screenshot_ui.png "Logo Title Text 2"
 
 
 # Oppgavebeskrivelse: 
