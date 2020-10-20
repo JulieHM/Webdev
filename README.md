@@ -2,7 +2,8 @@
 Første øving i faget webutvikling
 
 Skjermbilde:
-[Screenshot_ui.png]: Screenshot_ui.png "Logo Title Text 2"
+
+![GitHub Logo](Screenshot_ui.png)
 
 
 # Oppgavebeskrivelse: 
