@@ -18,7 +18,7 @@ Oppgaven evalueres i forhold til læringsmålene som er beskrevet under.
 ## Krav til innhold og funksjonalitet på websiden
 Følgende elementer skal være med på websiden (heretter kalt side-elementer):
 
-Litt informasjon om «kunstneren» (ikke bruk ditt eget navn siden medstudenter skal se over oppgaven).
+- Litt informasjon om «kunstneren» (ikke bruk ditt eget navn siden medstudenter skal se over oppgaven).
 Selve bildene (og tittel på bildene).
 Bildene skal ha en viss kompleksitet, men ikke større enn at den kan kodes manuelt eller med enkel programmering (minimum 5 elementer med litt variasjon i både type og fargelegging). 
 Figuren skal være demonstrere en form for interaktivitet, eksempelvis ha figur-elementer som skifter farge eller størrelse ved mouseover eller annen brukerinteraksjon. 
